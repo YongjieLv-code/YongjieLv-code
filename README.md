@@ -2,7 +2,7 @@
 
 # 👋 你好，我是 YongjieLv-code · 五味
 
-**嵌入式工程师 · MCU 固件开发 · DeepSeek Harness 插件作者**
+**嵌入式工程师 · MCU 固件开发**
 
 [![GitHub followers](https://img.shields.io/github/followers/YongjieLv-code?label=Followers&style=for-the-badge&color=4f7cff)](https://github.com/YongjieLv-code)
 [![Profile views](https://komarev.com/ghpvc/?username=YongjieLv-code&style=for-the-badge&color=22c55e)](https://github.com/YongjieLv-code)
@@ -18,8 +18,6 @@
 > 🔧 每天与 **寄存器、中断、串口** 打交道的嵌入式开发者
 > 
 > ⚡ 从 **裸机裸奔** 到 **RTOS**，从 **8 位** 到 **32 位**，写代码也修硬件
-> 
-> 🤖 同时热爱 **AI 工具链**，为 [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness) 生态贡献插件
 > 
 > 📚 信奉：**能跑就行 → 跑得优雅**
 
@@ -46,15 +44,6 @@
 | 项目 | 说明 | 状态 |
 |---|---|---|
 | [dsh-session-log-import](https://github.com/YongjieLv-code/dsh-session-log-import) | DeepSeek Harness 会话日志导入插件 — 把导出的会话 ZIP 导回本地，会话/子会话/附件一步恢复 | ✅ 可用 |
-
-## 📈 GitHub 数据
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YongjieLv-code&show_icons=true&theme=onedark&count_private=true)](https://github.com/YongjieLv-code)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongjieLv-code&layout=compact&theme=onedark)](https://github.com/YongjieLv-code)
-
-</div>
 
 ## ✍️ 一句话
 
