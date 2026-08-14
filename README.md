@@ -1,5 +1,7 @@
 <div align="center">
 
+![banner](assets/banner.svg)
+
 # 👋 你好，我是 YongjieLv-code · 五味
 
 **嵌入式工程师 · MCU 固件开发**
